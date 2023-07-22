@@ -1,0 +1,2 @@
+# hospital-management-system
+THIS IS DEMO PROJECT MADE WITH DJANGO FRAME WORK
